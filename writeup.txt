@@ -1,0 +1,3 @@
+Our strategy is a random strategy. We wait a bit in the beginning until we get 50 paint buckets in order to color after others paint, thereby increasing the chance of painting over their tiles.
+
+Currently, we do pick up powerups. We try to use them when possible. However, we do not always pick up powerups, and we do not always use them.
